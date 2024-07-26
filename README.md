@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy Partner! 👋
 
 ```php
 function work_life_balance($task, $mood = 'neutral') {
