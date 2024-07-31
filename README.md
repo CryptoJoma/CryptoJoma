@@ -28,7 +28,7 @@ I also have experience in video editing and social media management, using Adobe
 
 Thank you for visiting my profile!
 
-### Remember this!
+## Remember this!
 ```php
 function work_life_balance($task, $mood = 'neutral') {
     // Fun emojis based on mood
