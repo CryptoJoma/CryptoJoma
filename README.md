@@ -22,7 +22,7 @@ I also have experience in video editing and social media management, using Adobe
 
 ## Good Links!
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CryptoJoma&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=mazkdevf%27s%20Github%20Statistics&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CryptoJoma&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=CryptoJoma%27s%20Github%20Statistics&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoJoma&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
