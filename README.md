@@ -21,7 +21,7 @@ I also have experience in video editing and social media management, using Adobe
 * **[LicenseChain Telegram Bot](https://github.com/CryptoJoma/LicenseChain-TG-Bot/)** An unofficial LicenseChain open-source Telegram Bot for authenticating and interacting with the Seller API, including tasks such as generating licenses, managing subscriptions, and handling affiliates. (Developed by a team member, not an official product.)
 * **[DB Storage Manager](https://github.com/CryptoJoma/DB_Storage_Manager)** An application to download databases from a PHP API and upload them to Google Drive securely.
 
-## Good Links!
+## Personal Stats!
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CryptoJoma&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=CryptoJoma%27s%20Github%20Statistics&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoJoma&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
