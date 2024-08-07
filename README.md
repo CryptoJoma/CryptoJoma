@@ -22,14 +22,17 @@ I also have experience in video editing and social media management, using Adobe
 * **[DB Storage Manager](https://github.com/CryptoJoma/DB_Storage_Manager)** An application to download databases from a PHP API and upload them to Google Drive securely.
 
 ## Personal Stats!
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CryptoJoma&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=CryptoJoma%27s%20Github%20Statistics&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoJoma&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
+| Github Stats | Top Languages |
+| --- | --- |
+| ![CryptoJoma's github stats](https://github-readme-stats.vercel.app/api?username=CryptoJoma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![CryptoJoma's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoJoma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+<h3 align="center">Contact me</h3>
+<p align="center">
+<a href="https://t.me/JomaDev"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram"></a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=CryptoJoma&label=Profile%20Visits&style=for-the-badge" />
 </p>
 
-Thank you for visiting my profile!
-
-## Remember this!
+## Remember
 ```php
 function work_life_balance($task, $mood = 'neutral') {
     // Fun emojis based on mood
