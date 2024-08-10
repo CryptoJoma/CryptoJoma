@@ -1,4 +1,4 @@
-<h1 align="center">Howdy Partner! 👽 ✨</h1>
+<h1 align="center">Howdy Partner! 👽✨</h1>
 <h3 align="center">About me</h3>
 
 <p align="center">I am a DevOps engineer with a Bachelor's in Animation, Interactive Technology, Video Graphics, and Special Effects. I am passionate about creating websites and automation tools that help small and medium businesses grow and succeed online.</p>
