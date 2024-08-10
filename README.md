@@ -1,12 +1,17 @@
-### Howdy Partner! 👽
+<h1 align="center">Howdy Partner! 👽 ✨</h1>
+<h3 align="center">About me</h3>
 
-#### **About me**
+<p align="center">I am a DevOps engineer with a Bachelor's in Animation, Interactive Technology, Video Graphics, and Special Effects. I am passionate about creating websites and automation tools that help small and medium businesses grow and succeed online.</p>
 
-I am a DevOps engineer with a Bachelor's degree in Animation, Interactive Technology, Video Graphics, and Special Effects. I am passionate about creating websites and automation tools that help small and medium businesses grow and succeed online.
+<p align="center">I also have experience in video editing and social media management, using Adobe Premiere Pro, Adobe After Effects, CapCut, Instagram, Twitter, and Facebook to create and manage client projects.</p>
 
-I also have experience in video editing and social media management, using Adobe Premiere Pro, Adobe After Effects, CapCut, Instagram, Twitter, and Facebook to create and manage client projects.
+<h3 align="center">Contact me</h3>
+<p align="center">
+<a href="https://t.me/JomaDev"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram"></a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=CryptoJoma&label=Profile%20Visits&style=for-the-badge" />
+</p>
 
-**Skills**
+## Skills
 
 - Programming Languages (Most Used): JavaScript, Python, PHP
 - Technologies (Most Used): TailwindCSS, MYSQL, WordPress, Express.js, Nginx, Apache2
@@ -22,15 +27,9 @@ I also have experience in video editing and social media management, using Adobe
 * **[DB Storage Manager](https://github.com/CryptoJoma/DB_Storage_Manager)** An application to download databases from a PHP API and upload them to Google Drive securely.
 
 ## Personal Stats!
-| Github Stats | Top Languages |
-| --- | --- |
-| ![CryptoJoma's github stats](https://github-readme-stats.vercel.app/api?username=CryptoJoma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![CryptoJoma's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoJoma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
-
-<h3 align="center">Contact me</h3>
-<p align="center">
-<a href="https://t.me/JomaDev"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram"></a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=CryptoJoma&label=Profile%20Visits&style=for-the-badge" />
-</p>
+| Github Stats | Streak | Top Languages |
+| --- | --- | --- |
+| ![CryptoJoma's github stats](https://github-readme-stats.vercel.app/api?username=CryptoJoma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=CryptoJoma&theme=dark&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&hide_border=false" alt="Streak"> | ![CryptoJoma's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoJoma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ## Remember
 ```php
