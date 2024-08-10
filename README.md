@@ -14,8 +14,9 @@
 
 <h3 align="center">Contact me</h3>
 <p align="center">
-<a href="https://t.me/JomaDev"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram"></a>
+  <a href="https://t.me/JomaDev"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=CryptoJoma&label=Profile%20Visits&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/jomadev/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-1a1b27?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ## Skills
