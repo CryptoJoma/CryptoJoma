@@ -1,4 +1,11 @@
 <h1 align="center">Howdy Partner! 👽✨</h1>
+
+<p align="center">
+  <a href="https://github.com/CryptoJoma">
+    <img src="https://github-stats-alpha.vercel.app/api?username=CryptoJoma&cc=151515&tc=FFFFFF&ic=DAAE29&bc=FFFFFF">
+  </a>
+</p>
+
 <h3 align="center">About me</h3>
 
 <p align="center">I am a DevOps engineer with a Bachelor's in Animation, Interactive Technology, Video Graphics, and Special Effects. I am passionate about creating websites and automation tools that help small and medium businesses grow and succeed online.</p>
@@ -26,10 +33,22 @@
 * **[LicenseChain Telegram Bot](https://github.com/CryptoJoma/LicenseChain-TG-Bot/)** An unofficial LicenseChain open-source Telegram Bot for authenticating and interacting with the Seller API, including tasks such as generating licenses, managing subscriptions, and handling affiliates. (Developed by a team member, not an official product.)
 * **[DB Storage Manager](https://github.com/CryptoJoma/DB_Storage_Manager)** An application to download databases from a PHP API and upload them to Google Drive securely.
 
-## Personal Stats!
-| Github Stats | Streak | Top Languages |
-| --- | --- | --- |
-| ![CryptoJoma's github stats](https://github-readme-stats.vercel.app/api?username=CryptoJoma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=CryptoJoma&theme=dark&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&hide_border=false" alt="Streak"> | ![CryptoJoma's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoJoma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+<details>
+  <summary>📈 Personal Stats</summary>
+  <br>
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CryptoJoma&theme=darcula">
+  </p>
+  
+  <table>
+  
+  | Github Stats | Streak | Top Languages |
+  | --- | --- | --- |
+  | ![CryptoJoma's github stats](https://github-readme-stats.vercel.app/api?username=CryptoJoma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true)  | <img src="https://github-readme-streak-stats.herokuapp.com/?user=CryptoJoma&theme=dark&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&hide_border=false" alt="Streak">  | ![CryptoJoma's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoJoma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+  
+  </table>
+
+</details>
 
 ## Remember
 ```php
