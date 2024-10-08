@@ -6,7 +6,10 @@
   </a>
 </p>
 
-<h3 align="center">About me</h3>
+<h3 align="center">About me </h3>
+<p align="center">
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=CryptoJoma&label=Profile%20Visits&style=for-the-badge" />
+</p>
 
 <p align="center">I am a DevOps engineer with a Bachelor's in Animation, Interactive Technology, Video Graphics, and Special Effects. I am passionate about creating websites and automation tools that help small and medium businesses grow and succeed online.</p>
 
@@ -15,8 +18,6 @@
 <h3 align="center">Contact me</h3>
 <p align="center">
   <a href="https://t.me/JomaDev"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram"></a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=CryptoJoma&label=Profile%20Visits&style=for-the-badge" />
-  <a href="https://www.linkedin.com/in/jomadev/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-1a1b27?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ## Skills
