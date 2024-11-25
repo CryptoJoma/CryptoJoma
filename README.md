@@ -11,7 +11,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=CryptoJoma&label=Profile%20Visits&style=for-the-badge" />
 </p>
 
-<p align="center">I am a DevOps engineer with a Bachelor's in Animation, Interactive Technology, Video Graphics, and Special Effects. I am passionate about creating websites and automation tools that help small and medium businesses grow and succeed online.</p>
+<p align="center">I am an AI engineer with a Bachelor's in Animation, Interactive Technology, Video Graphics, and Special Effects. I am passionate about creating apps and automation tools.</p>
 
 <p align="center">I also have experience in video editing and social media management, using Adobe Premiere Pro, Adobe After Effects, CapCut, Instagram, Twitter, and Facebook to create and manage client projects.</p>
 
@@ -20,13 +20,17 @@
   <a href="https://t.me/JomaDev"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram"></a>
 </p>
 
-## Skills
+## Tech Stack
 
 - Programming Languages (Most Used): JavaScript, Python, PHP
 - Technologies (Most Used): TailwindCSS, MYSQL, WordPress, Express.js, Nginx, Apache2
 - Cloud Engineering: Oracle Cloud
 - Tools: Git, GitHub, VSCode, PHPMailer, Postman
 - Soft Skills: Communication, teamwork, problem-solving, marketing, social media management
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Projects
 
@@ -84,18 +88,3 @@ $message = work_life_balance("Complete PHP project", "happy");
 echo $message;
 
 ```
-
-<!--
-**odgon/odgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
